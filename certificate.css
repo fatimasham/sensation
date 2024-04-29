@@ -1,0 +1,37 @@
+body {
+    background-image: url(fon8.jpg);
+   /*background: linear-gradient(#fbfbfb, #ee9ca7, #ffdde1);   */
+}
+
+.nav {
+    display: flex;
+    justify-content:space-between;
+    background-color:rgba(255, 255, 255, 1);
+}
+
+    .item {
+        padding: 40px;
+        text-decoration: none;
+        color:#7e8485;
+        font-family: 'Onest', sans-serif;
+        font-size: 16px;
+    }
+
+
+h2 {
+    padding: 20px;
+    margin-left: 30%;
+    font-size: 30px;
+    font-family: 'Onest', sans-serif;
+    color:#707981;
+    font-weight: 500;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+    margin: 20px;
+}
+
+
